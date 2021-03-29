@@ -1,9 +1,11 @@
 # Detect-Prime-number
 #include<iostream>
-using namespace std;
+    
+ using namespace std;
 
 int main()
-{
+{ 
+
     int number,i;
     
     cout<<"enter a number";
